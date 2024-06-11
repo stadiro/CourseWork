@@ -1,1 +1,1 @@
-# Тут будет курсовая работа
+# There is Telegram-bot "Health reminder"
